@@ -1,3 +1,3 @@
-def catch_phrase(argu)
-  puts "#{argu}"
+def catch_phrase(phrase)
+  puts phrase
 end
